@@ -1,7 +1,7 @@
 const APP_NAME = "Money Saving Technique";
 const APP_DESCRIPTION = "Money Saving Technique"
-const APP_SUPPORT_EMAIL = "alKw2@example.com"
-const PRIVACY_POLICY_UPDATE_DATE = "August 12, 2025"
+const APP_SUPPORT_EMAIL = "info@moneysavingtechniques.com"
+const PRIVACY_POLICY_UPDATE_DATE = "December 10, 2025"
 
 
 

@@ -62,7 +62,7 @@ const PrivacyPage: React.FC = () => {
           </li>
           <li>To provide customer support and respond to your requests.</li>
           <li>
-            To improve the app, fix bugs, and analyse usage (aggregated and
+            To improve the app, fix bugs, and analyst usage (aggregated and
             anonymized where possible).
           </li>
         </ul>
